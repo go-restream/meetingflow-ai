@@ -22,7 +22,7 @@ jobs:
       - name: Build
         id: build
         run: |
-          npm ci
+          npm install
           npm run build
           echo "Build completed. Checking output files:"
           ls -la dist/
