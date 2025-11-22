@@ -3,7 +3,7 @@
 	"name": "MeetingFlow AI",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "AI-powered real-time meeting transcription and analysis for Obsidian",
+	"description": "Professional enterprise meeting transcription and AI assistant.",
 	"author": "XiaoYang",
 	"authorUrl": "https://github.com/go-restream",
 	"fundingUrl": "https://github.com/go-restream/meetingflow-ai",

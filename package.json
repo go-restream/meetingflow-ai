@@ -1,7 +1,7 @@
 {
 	"name": "meeting-flow-ai",
 	"version": "1.0.0",
-	"description": "Professional enterprise meeting transcription and AI assistant for Obsidian",
+	"description": "Professional enterprise meeting transcription and AI assistant.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
